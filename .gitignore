@@ -6,3 +6,5 @@ __MACOSX/
 package-lock.json
 
 build
+
+node_modules/
