@@ -13,4 +13,9 @@ function transformacaoCss() {
         .pipe(gulp.dest('build/css'))  
 }
 
-exports.default = series(transformacaoCss);
+function copiarHTML() {
+    return gulp.src('src/index.html')
+        .pipe(gulp.dest('build'));
+}
+
+exports.default = series(transformacaoCss, copiarHTML);
