@@ -1,11 +1,11 @@
 # Learning JavaScript :heart:
 
-:computer:This is a repository of the JavaScript course 
+This is a repository of the JavaScript course  :computer: 
 
-:notebook:In this course, I am learning the basics of JavaScript and other things: NodeJs, CSS3, HTML5, AJAX, GULP, JQUERY, BOOTSTRAP, REACT, VUEJS AND DATABASE.
+In this course, I'm learning JavaScript and other technologies:
+nodeJs, css3, html5, ajax, gulp, jquery, bootstrap, react, vuejs and database.
 
-Some projects are in the course, which Flappy Bird and a project of the a gallery.
+Some projects are in the course, which Flappy Bird and a project of the a photos gallery.
 
-You can follow me here to keep seeing my learnings, after this course, I'll to make some good projects.
 
-###### Thanks for read my repository.:facepunch:
+###### Thanks for read my repository.  :facepunch:
