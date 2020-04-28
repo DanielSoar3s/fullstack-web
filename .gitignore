@@ -6,5 +6,10 @@ __MACOSX/
 package-lock.json
 
 build
+popper.min.js
+jquery.min.js
+bootstrap.min.js
+bootstrap.min.css
+.DS_Store
 
 node_modules/
