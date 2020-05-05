@@ -1,7 +1,11 @@
 import React from 'react';
 import ReactDom from 'react-dom';
 
+import Multi from './components/Multiplos';
 
-import BomDia from './components/BomDia';
-
-ReactDom.render( <BomDia nome="Daniel Soares"/>, document.getElementById('root'));
+ReactDom.render(
+    <div>
+        <Multi.BoaTarde nome="Ana"></Multi.BoaTarde>
+        <Multi.BoaNoite nome="Zezim"></Multi.BoaNoite>
+    </div>
+, document.getElementById('root'));
