@@ -5,3 +5,7 @@ header.header {
   white-space: nowrap;
   box-shadow: var(--shadow);
 }
+
+header.header h1 {
+  font-size: 1.8em;
+}
